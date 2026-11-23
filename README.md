@@ -4,9 +4,7 @@
 1. Sensor.py:
 
 A read-only Windows 11 host auditor that scans obscure peripheral and
-root-of-trust surfaces and reports what it found, what it could not establish,
-and which source could have lied about each value. Python 3, standalone, no
-dependencies outside the standard library.
+root-of-trust surfaces and reports what it found.
 
 Eighteen sections: TPM, BitLocker, device inventory, device risk notes,
 DMA/Thunderbolt, interception surface, boot integrity, low-level hardware
