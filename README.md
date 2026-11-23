@@ -1,3 +1,6 @@
+<img width="1185" height="537" alt="image" src="https://github.com/user-attachments/assets/2d643e30-d86c-4be7-9f7d-dc8fef60bde6" />
+
+
 1. Sensor.py:
 
 A read-only Windows 11 host auditor that scans obscure peripheral and
