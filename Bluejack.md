@@ -1,4 +1,7 @@
 # Bluejack.py
+#REQUIRES _windows_bt.py
+#REQUIRES _windows_bt.py
+#REQUIRES _windows_bt.py
 
 Read-only Bluetooth posture audit for a single Windows host.
 
